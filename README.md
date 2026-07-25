@@ -1,6 +1,6 @@
 # Ernesto Mendoza Faloh
 
-Nuclear physicist with a degree from the Institute of Nuclear and Energy Technologies (InSTEC), University of Havana.
+Nuclear physicist with a degree from the Higher Institute of Technologies and Applied Science (InSTEC), University of Havana.
 
 My work focuses on theoretical and computational physics — mathematical modeling of physical systems, numerical methods, and scientific computing applied to nuclear physics problems.
 
